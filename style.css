@@ -4,6 +4,11 @@
   background: #00688b;
 }
 
+.para
+{
+  font-family: 'Caveat', cursive;
+}
+
 .dropdown:hover .dropdown-menu{
     display: block;
 }
